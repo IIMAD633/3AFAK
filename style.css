@@ -1,36 +1,21 @@
 /* Created by WEAKY */
 
 body {
-    background-image:url(https://media.tenor.com/images/aedc4ddde1adfc52d185cdb9f5f679e3/tenor.gif?ctx=share);
-    background-size: 60% 200px;
-    animation: gradient 15s ease infinite;
-    height: 100vh;
+    background-color:aqua;
+    width: 100%;
+    height: 100px;
 }
 
-@keyframes gradient {
-    0% {
-        background-position: 0% 50%;
-    }
-    50% {
-        background-position: 100% 50%;
-    }
-    100% {
-        background-position: 0% 50%;
-    }
-}
+
 
 h1{
-    text-align:center;
+    text-align: center;
     color:orange;
-    padding:10px;
-    font-size:25px;
-    font-weight:bold;
-    border-bottom:5px grey;
-    background-color:grey;
+    font-size: 500%;
 }
 
 #ipu{
-  font-size:20px;
+  font-size:200%;
   background-color: rgba(255,255,255,0.1);
   animation: cl 0.2s infinite;
   border:0;
