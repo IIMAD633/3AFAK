@@ -2,7 +2,7 @@
 
 body {
     background-image:url(https://media.tenor.com/images/aedc4ddde1adfc52d185cdb9f5f679e3/tenor.gif?ctx=share);
-    background-size: 100% 100%;
+    background-size: 60% 200px;
     animation: gradient 15s ease infinite;
     height: 100vh;
 }
